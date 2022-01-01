@@ -1,0 +1,9 @@
+jobs:
+- name: "DevSecOps Engineer"
+  description: "Building out a scalable multicloud solution for visibility into public cloud security compliance at SAP"
+  start-date: "June 2021"
+  end-date: "Present"
+- name: "Support Engineer"
+  description:  "As a Support Engineer in the Center of Expertise, I supported SAP’s top customers with topics around data modeling, enterprise application performance, and design."
+  start-date: "July 2019"
+  end-date: "June 2021"
